@@ -107,7 +107,7 @@ test = "nys549r54NXkB0iM"
 ```
 terraform destroy
 ```
-When promped, enter **yes** and hit **Enter** to destroy the resources:
+When prompted, enter **yes** and hit **Enter** to destroy the resources:
 
 ```
 ...
