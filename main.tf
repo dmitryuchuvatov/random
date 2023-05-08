@@ -10,6 +10,7 @@ terraform {
 provider "null" {
   # Configuration options
 }
+
 resource "random_string" "test" {
   length           = 16
   special          = true
